@@ -1,0 +1,9 @@
+8
+irobot 6 1 5 8 13 15 21
+hancock 6 1 5 13 16 26 21
+takers 6 1 5 13 17 19 25
+moneyball 6 2 7 13 17 22 20 
+superbad 6 3 12 16 20 27 28
+madagascar 6 3 6 10 11 14 15
+taken 6 1 5 10 13 23 16
+django 6 1 5 9 12 18 24
